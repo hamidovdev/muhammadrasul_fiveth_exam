@@ -1,0 +1,28 @@
+name: fiveth_month_exam
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  firebase_auth: ^4.17.4
+  firebase_core: ^2.25.4
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  flutter_svg: ^2.0.10+1
+  gap: ^3.0.1
+  get_it: ^7.6.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "299552977582",
+    "project_id": "fivethexcam-test",
+    "storage_bucket": "fivethexcam-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299552977582:android:9d80028c429ac2b972b33f",
+        "android_client_info": {
+          "package_name": "com.example.fiveth_month_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299552977582-ee5ijs6l81rhvhqbqoldak787qjg5nf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wDmMz_V9HYxcaL7wNcRSWKQGK-2hGwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299552977582-ee5ijs6l81rhvhqbqoldak787qjg5nf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299552977582-77uvkp5m82hnq3bvjjd3lv2kcfnapnqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.exam.fivethExamTestProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299552977582:android:d6a989cd73e488fc72b33f",
+        "android_client_info": {
+          "package_name": "org.exam.fiveth_exam_test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299552977582-ee5ijs6l81rhvhqbqoldak787qjg5nf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wDmMz_V9HYxcaL7wNcRSWKQGK-2hGwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299552977582-ee5ijs6l81rhvhqbqoldak787qjg5nf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299552977582-77uvkp5m82hnq3bvjjd3lv2kcfnapnqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.exam.fivethExamTestProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>299552977582-rtmlaein8dku6f0j7p6rsgd1uf4j1b72.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.299552977582-rtmlaein8dku6f0j7p6rsgd1uf4j1b72</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEWdUbI9ZTvBe_E7Af-Vbvxr-ed-APOLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>299552977582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fivethMonthExam</string>
+	<key>PROJECT_ID</key>
+	<string>fivethexcam-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fivethexcam-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:299552977582:ios:3daab26f4faf186e72b33f</string>
+</dict>
+</plist>
